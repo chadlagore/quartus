@@ -1,0 +1,28 @@
+# Ignore everything
+*
+
+# Except the following
+
+# Design files
+!*.vhd
+!*.v
+
+# Qsys files
+!*.qsys
+!*.mif
+
+# Block design files
+!*.bdf
+
+# System design constraints
+!*.sdc
+
+# Pinout
+!*.qsf
+
+# Project file
+!*.qpf
+
+# Qip files
+!*.qip
+!*.sip

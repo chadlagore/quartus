@@ -1,0 +1,35 @@
+# Ignore everything
+*
+!*/
+lab2/db
+lab4/db
+lab5/db
+
+# Except the following
+
+# Design files
+!*.vhd
+!*.v
+!*.sv
+!*.qxp
+
+# Qsys files
+!*.qsys
+!*.mif
+
+# Block design files
+!*.bdf
+
+# System design constraints
+!*.sdc
+
+# Pinout
+!*.qsf
+
+# Project file
+!*.qpf
+
+# Software
+!*.psm
+!*.c
+!*.h
